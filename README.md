@@ -1,9 +1,8 @@
 # Project_Sniffer_Project_9
-This repository contains the files for the Project 9 of OOP course :Project Sniffer
+This repository contains the files for a Project Sniffer designed in Java 
 Introduction to the Project
 
-Name 1: Ishan Rai ID Number: 2019B3A70504P
-Name 2: Shrey Bansal ID Number: 2019B3A70592P
+Creator: Ishan Rai 
 
 Here is a general overview of the different classes of which the project is composed:-
 
@@ -12,7 +11,7 @@ Attack Traffic Class
 Normal Traffic Class
 Victim Host Class
 
-The goal of the Project - Sniff all the packets on a port, and extract all the information from the packets including source IP, destination IP, source port, destination port. If the number of packets exceeds 1000, then it is classified as an attack through the victim host class.
+The goal of the Project - Sniff all the packets on a port, and extract all the information from the packets including source IP, destination IP, source port, destination port. If the number of packets exceeds a certain limit, then it is classified as an attack through the victim host class.
 
 Normal Traffic Class
 
